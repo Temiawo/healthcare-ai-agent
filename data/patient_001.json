@@ -1,0 +1,21 @@
+{
+    "patient_name": "Jane Doe",
+    "age": 45,
+    "gender": "Female",
+    "visit_date": "2026-05-25",
+    "chief_complaint": "Persistent headache and fatigue for 2 weeks",
+    "vitals": {
+        "blood_pressure": "138/88",
+        "heart_rate": 92,
+        "temperature": 98.9,
+        "weight_lbs": 165
+    },
+    "medications": ["Lisinopril 10mg daily", "Metformin 500mg twice daily"],
+    "allergies": ["Penicillin"],
+    "lab_results": {
+        "HbA1c": 7.8,
+        "cholesterol": 210,
+        "blood_glucose": 145
+    },
+    "notes": "Patient reports increased stress at work. Follow up on diabetes management."
+}
