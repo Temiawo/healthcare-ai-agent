@@ -30,22 +30,6 @@ The agent produces three distinct outputs tailored to different stakeholders:
 - 👨‍⚕️ **Clinician** — detailed clinical report with risk flags and recommendations  
 - 🏥 **Hospital System** — structured JSON data for EHR integration
 
----
-
-## 🎯 Research Context
-
-This project is submitted as part of graduate coursework for the  
-**Master of Science in Machine Learning & Artificial Intelligence**  
-at **Purdue University (Summer 2026)**.
-
-**Assignment:** Select a domain and propose an AI application that delegates 
-a high-volume task to an AI Agent executing four functions: Gather, Transform, 
-Assess, and Disseminate — then evaluate its potential benefits and risks with 
-special attention to **direct and social alignment**.
-
-**Application Type:** AI Assistance — the agent identifies and evaluates patient 
-data requests and responds to meet the principal's goals across multiple 
-competing stakeholders.
 
 ---
 
