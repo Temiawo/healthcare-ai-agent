@@ -4,7 +4,6 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Claude](https://img.shields.io/badge/Powered%20by-Claude%20Anthropic-orange)
 ![Streamlit](https://img.shields.io/badge/UI-Streamlit-red)
-![Research](https://img.shields.io/badge/Purdue%20University-MS%20Research-gold)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
  
